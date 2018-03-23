@@ -1,0 +1,19 @@
+.navbar {
+    // background-color: $nav-color;
+}
+
+.navbar-toggle {
+    background-color: $nav-toggle-color;
+}
+.navbar-toggle:hover {
+    cursor: pointer;
+}
+@media (min-width: $screen-sm-min) {
+    ul.navbar-nav {
+        float: none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+    }
+}
+

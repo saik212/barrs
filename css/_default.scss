@@ -1,0 +1,14 @@
+body {
+    background: $body-color;
+    background: $main-bg;
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    // background-position: center center;
+}
+
+// .content .container:first-child {
+//     background: $main-bg;
+//     background-size:     cover;                      /* <------ */
+//     background-repeat:   no-repeat;
+//     background-position: center center;
+// }

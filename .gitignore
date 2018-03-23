@@ -1,2 +1,5 @@
 # ignore sass cache
 css/.sass-cache/
+
+css/output.css.map
+css/output.css
